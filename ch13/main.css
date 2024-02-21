@@ -1,0 +1,85 @@
+*{
+    box-sizing:border-box;
+}
+.about {
+    box-sizing:border-box;
+    padding-left: 400px;
+    padding-right: 400px;
+    border-color:1px aqua;
+}
+
+.Who {
+    color: #ed4848;
+    font-family: Poppins;
+    margin: 10px;
+}
+
+.A {
+    color: black;
+    font-family: Poppins;
+    font-size: 2rem;
+    margin: 10px;
+}
+
+.it {
+    display: flex;
+    width: 1300px;
+}
+
+
+img {
+    width: 500px;
+    height: 400px;
+}
+
+.H {
+    color: black;
+    font-size: 2rem;
+    margin: 0px;
+}
+
+strong {
+    color: #ed4848;
+}
+
+p {
+    color: black;
+}
+
+.envelope {
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+}
+
+.music {
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+}
+
+.youtube {
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+}
+
+.instagram {
+    width: 32px;
+    height: 32px;
+    padding: 2px;
+}
+
+.p {
+    padding-left: 20px;
+}
+
+.icon {
+    padding: 2px;
+}
+
+@media screen and (max-width: 800px) {
+    html {
+        font-size: 14px;
+    }
+}

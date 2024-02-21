@@ -1,0 +1,59 @@
+*{
+    border: 1px solid black;
+}
+
+html, body, h1, h2, h3, p {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+table, td, tr, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+h1 {
+    font-size: 24px;
+    color: blue;
+}
+
+.p_first {
+    font-size: 12px;
+    color: darkcyan;
+    background-color: antiquewhite;
+}
+
+#p_second {
+    font-size: 32px;
+    color: blueviolet;
+}
+
+input[type= "text"] {
+    border: 2px dashed blue;
+    font-size: 24px;
+}
+
+input[type= "email"] {
+    color: red;
+}
+
+button {
+    font-size: 24px;
+    height: 40px;
+    width: 120px;
+    background-color: rgba(0, 0, 255, 0.63);
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+button:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+label {
+    font-weight:bold;
+    font-size: large;
+    text-align: center;
+}

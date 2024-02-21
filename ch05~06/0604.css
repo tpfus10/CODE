@@ -1,0 +1,23 @@
+div {
+    width: 450px;
+    height: 450px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSne_d7CiXdn9WE0PW_WAtL3zQfx1lMX-hxzw&usqp=CAU);
+    /* background-size: cover; */
+    /* background-position: 100% 100%; */
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+    /* transform: rotate(10deg); */
+}
+
+
+h1 {
+
+}
+
+.cat {
+    color: rgb(48, 44, 44);
+    width: 450px;
+    height: 450px;
+    text-align: center;
+}

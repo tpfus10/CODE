@@ -1,0 +1,44 @@
+
+
+/* *모양은 전체를 의미함 */
+/* border 속성은 점검할 때 활용하면 좋음 */
+*{
+    padding: 20px;
+    border: 2px solid rgba(189, 148, 206, 0.911); 
+    font-size: 24px;
+}
+/* 셀렉터1 태그->모든 태그에 적용됨 */
+p {
+    font-size: 24px;
+    color: aquamarine;
+}
+
+h1 {
+    font-size: 64px;
+    color: antiquewhite;
+}
+
+/* 셀렉터2 class->class는 .으로 시작 */
+
+.my_div {
+    font-size: 2rem;
+    color: darkcyan;
+}
+
+.my_P {
+    font-size: 32px;
+    color: blue;
+}
+
+/* 셀렉터3 id->id는 #으로 시작 */
+#my_id {
+    font-size: 16px;
+    color: red;
+}
+
+/* <span class=""></span> */
+.highlight {
+    text-decoration: underline;
+    background-color: yellow;
+}
+

@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Lobster;
+    color: deeppink;
+    border-bottom: 2px solid purple;
+    border-bottom-style: dotted ;
+    border-bottom-width: 10px;
+    letter-spacing: 0.2rem;
+    padding-bottom: 10px;
+}
+
+h2 {
+   font-size: 1.5em;
+   font-style: italic;
+   color: rgba(43, 33, 20, 0.74);
+}
+
+.job-title {
+        font-weight: bold;
+        color: #999999
+}
+
+#fa {
+    color: green;
+}
+
+#sa {
+    color: coral;
+}
+
+.f1 {
+    border: solid black;
+    border-width: 1px ;
+}
+
+.f2 {
+    border: solid rgb(104, 31, 173);
+    font-weight: bold;
+    background-color: #e2dede;
+    border-width: 6px ;
+}
+

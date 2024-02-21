@@ -1,0 +1,24 @@
+*{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+body {
+    width: 500px;
+}
+
+h3 {
+    font-size: 18px;
+    color: #222222;
+    font-style: Nanum Gothic;
+    font-weight: 700;
+}
+
+.price {
+    color: #D40022;
+    font-size: 24px;
+    font-style: Nanum Gothic;
+    font-weight: 700;
+    text-align: right;
+}
+

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="https://httpbin.org/post" method="post"></form>
+    <fieldset>
+        <legend>Name</legend>
+        <p>
+            <label for="firstname"> Firstname: </label>
+            <input type="password" name="" id="userpw"><br>
+
+            <label for="lasttname"> Lastname: </label>
+            <input type="password" name="" id="userpw">
+        </p>
+    </fieldset>
+    <br>
+    <fieldset>
+        <legend>Interest</legend>
+        <p>
+            <label for="Hobby"> Hobby:
+                <textarea name="" id="Hobby" cols="30" rows="5"></textarea>
+            </label>
+
+            <label for="Music taste"> Music taste:
+                <textarea name="" id="Music taste" cols="30" rows="5"></textarea>
+            </label>
+        </p>
+    </fieldset>
+    <br>
+    <fieldset>
+        <legend>Place</legend>
+        <select name="place" id="place" size="1" multiple>
+            <optgroup label="USA">
+                <option value="NewYork">NewYork</option>
+                <option value="LA">LA</option>
+                <option value="Cali" selected>Cali</option>
+            </optgroup>
+        </select>
+    </fieldset>
+</body>
+<!-- button부터 하기 -->
+</html>

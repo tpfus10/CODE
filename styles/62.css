@@ -1,0 +1,26 @@
+p {
+    font-family: Nanum Myeongjo;
+    font-size: 20px;
+}
+
+.firt_L {
+    font-size: 36px;
+}
+
+.firt_L1 {
+    font-size: 36px;
+}
+
+.writer {
+    font-size: 15px;
+    font-family: Nanum Myeongjo;
+    font-style: italic;
+}
+
+h1 {
+    font-family: Nanum Myeongjo;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+}
+

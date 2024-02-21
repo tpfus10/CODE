@@ -1,0 +1,55 @@
+* {
+    font-family: Roboto;
+    text-align: center;
+    box-sizing:border-box;
+}
+
+.col {
+    color: #504444;
+    padding-top: 28px;
+}
+
+.Gog {
+    font-size: 14px;
+    font-weight: bold;
+    width: 228px;
+    height: 44px;
+}
+
+.login {
+    font-size: 14px;
+    background-color: #373f3c;
+    width: 228px;
+    height: 44px;
+    color: white;
+}
+
+
+input {
+    width: 228px;
+    height: 44px;
+    background-color: #eaeaea;
+    border: 0px;
+    border-radius: 3px;
+    color: #373f3cce;
+    text-align:left;
+    padding-left: 10px;
+}
+img {
+    width: 20px;
+    height: 20px;
+    padding-top: 5px;
+}
+
+.F {
+    font-size: 14px;
+    color: #2c3432;
+    padding-top: 20px;
+}
+
+.B{
+    border: 1px solid #504444;
+    width: 304px;
+    height: 390px;
+    background-image: url(url(https://pm.pstatic.net/resources/asset/sp_main.ae81c9d5.png));
+}

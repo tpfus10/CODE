@@ -1,0 +1,19 @@
+div {
+    background-color: #ffff99;
+    padding: 18px;
+    width: 350px;
+    height: 350px;
+    font-family: Nanum Pen Script;
+    transform: rotate(10deg);
+    text-align: center;
+    margin: 50px
+}
+
+p {
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 44px;
+    margin-bottom: 20px;
+}

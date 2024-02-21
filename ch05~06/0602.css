@@ -1,0 +1,27 @@
+* {
+    border: 0.5px solid black;
+}
+
+h1 {
+    height: 100px;
+    margin: 20px;
+    border-width: 5px;
+    border-style: dashed;
+    border-left-color: white;
+    border-right-color: white;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: blanchedalmond;
+}
+
+.c-i {
+    display: inline;    
+}
+
+
+
+
+
+
